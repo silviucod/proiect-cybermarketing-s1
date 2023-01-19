@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Ear Nose &amp; Throat | Methven Showers Vietna</title>
-	<atom:link href="/category/ear-nose-throat/feed/?simply_static_page=552" rel="self" type="application/rss+xml" />
+	<title>Ear Nose &amp; Throat | iCocoon</title>
+	<atom:link href="/category/ear-nose-throat/feed/?simply_static_page=856" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>Cyber Showers</description>
 	<lastBuildDate>Thu, 13 Dec 2018 17:56:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/01/cropped-site-icon-32x32.png</url>
+	<title>Ear Nose &amp; Throat | iCocoon</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Lorem ipsum dolor sit amet consectetur</title>
 		<link>/lorem-ipsum-dolor-sit-amet-consectetur-6/</link>

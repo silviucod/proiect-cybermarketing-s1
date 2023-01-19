@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Announcements | Methven Showers Vietna</title>
-	<atom:link href="/category/announcements/feed/?simply_static_page=527" rel="self" type="application/rss+xml" />
+	<title>Announcements | iCocoon</title>
+	<atom:link href="/category/announcements/feed/?simply_static_page=829" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>Cyber Showers</description>
 	<lastBuildDate>Sun, 08 Dec 2019 18:58:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/01/cropped-site-icon-32x32.png</url>
+	<title>Announcements | iCocoon</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Lorem ipsum dolor sit amet consectetur</title>
 		<link>/lorem-ipsum-dolor-sit-amet-consectetur-8/</link>

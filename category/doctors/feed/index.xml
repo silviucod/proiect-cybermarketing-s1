@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Doctors | Methven Showers Vietna</title>
-	<atom:link href="/category/doctors/feed/?simply_static_page=549" rel="self" type="application/rss+xml" />
+	<title>Doctors | iCocoon</title>
+	<atom:link href="/category/doctors/feed/?simply_static_page=853" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>Cyber Showers</description>
 	<lastBuildDate>Fri, 08 Nov 2019 16:49:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/01/cropped-site-icon-32x32.png</url>
+	<title>Doctors | iCocoon</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Lorem ipsum dolor sit amet consectetur</title>
 		<link>/lorem-ipsum-dolor-sit-amet-consectetur/</link>
